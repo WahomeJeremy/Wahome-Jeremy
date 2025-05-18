@@ -1,6 +1,6 @@
 # Wahome-Jeremy
 
-# Hey there 👋, I'm Jeremy Wahome
+# Hey there 👋, I'm Wahome Jeremy
 
 
 I am a **Fullstack Software Engineer** specializing in **Frontend Development** and **UI/UX Design**.  
