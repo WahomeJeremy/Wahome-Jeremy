@@ -1,4 +1,4 @@
-# Wahome-Jeremy
+# WahomeJeremy
 
 # Hey there 👋, I'm Wahome Jeremy
 
